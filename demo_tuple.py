@@ -13,7 +13,7 @@ print(tuple_1)
 list1_from_tuple_1 = list(tuple_1)
 list1_from_tuple_1.append('Rajshahi')
 print(list1_from_tuple_1)
-tuple_1= tuple(list1_from_tuple_1)
+tuple_1 = tuple(list1_from_tuple_1)
 print(tuple_1)
 
 #ONE ITEM TUPLE, ensure a comma is placed
