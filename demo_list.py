@@ -39,3 +39,32 @@ if 'jackfruit' not in list_of_fruits:
     list_of_fruits.append('jackfruit')
 
 print(list_of_fruits)
+
+print("List assignment")
+#Using list as Stack
+
+stack = [34]
+stack.append(9)
+print(stack)
+stack.pop()
+print(stack)
+stack.pop()
+print(stack)
+
+#LIST : remove, reverse, sort, append, index, insert
+
+list_numbers = [13, 15, 17, 20]
+print(list_numbers)
+list_numbers.append(29)
+print(list_numbers)
+list_numbers.index(29)
+print(list_numbers)
+list_numbers.index(0, 3)
+print(list_numbers)
+list_numbers.insert(2, 300)
+print(list_numbers)
+
+list_numbers.remove(20)
+print(list_numbers)
+list_numbers.reverse()
+print(list_numbers)
