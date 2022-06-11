@@ -9,4 +9,10 @@ print(SAT)
 
 intVal, boolVal, stringVal = 2, True, "A String"
 
-(lambda x : x+3 )(3)
+x = (lambda x : x+3 )(3)
+
+print(x)
+
+map_data = map(lambda x : x*3, range(6))
+
+print(map_data)
