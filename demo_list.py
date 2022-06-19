@@ -2,7 +2,7 @@ import random
 
 list_of_fruits = ['apple', 'banana', 'carrot', 'orange']
 
-list_of_colours= ['red', 'orange', 'yellow', 'white']
+list_of_colours = ['red', 'orange', 'yellow', 'white']
 
 list_of_list= [list_of_fruits, list_of_colours]
 
@@ -18,7 +18,7 @@ for i in range(len(list_of_fruits)):
     print(list_of_fruits[i])
 
 
-random_fruit= random.choice(list_of_fruits)
+random_fruit = random.choice(list_of_fruits)
 print(random_fruit)
 
 random.shuffle(list_of_fruits)
