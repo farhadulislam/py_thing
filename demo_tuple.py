@@ -24,3 +24,8 @@ print(type(tuple_2))
 tuple_3 =('One')
 print(type(tuple_3))
 
+
+composite_tuple = ('String', [12, 34, 5], True, 'Fruits')
+print(composite_tuple)
+print(composite_tuple[1][2])
+print(composite_tuple.count('String'))
