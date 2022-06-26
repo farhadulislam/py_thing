@@ -16,3 +16,16 @@ print(x)
 map_data = map(lambda x : x*3, range(6))
 
 print(map_data)
+
+#Unpacking tuple
+n_tuple = ('Monday', 1989, True)
+day, year, is_nested_tuple = n_tuple
+
+nums_squared = [x**2 for x in range(10)]
+print(nums_squared)
+binary = [2**x for x in range(10) if x > 0]
+print(binary)
+
+#
+sum(range(5))
+list(range(0, 10, 2))
