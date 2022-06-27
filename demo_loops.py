@@ -35,7 +35,6 @@ def demo_while_list():
     print(f"list_fruits after removal : {list_fruits}")
 
 
-
 demo_while()
 demo_while_list()
 #demo_do_while()
