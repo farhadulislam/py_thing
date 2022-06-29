@@ -50,14 +50,14 @@ for i in list_numbers:
 print(sum)
 
 
-#bug - needs fixing. 
+
 def factorial(x):
     factorial  = 1
     if x ==1:
         return 1
     else:
-        for i in range(x):
+        for i in range(1, x+1):
             factorial = factorial * i
         return factorial
 
-print(factorial(100))
+print(factorial(3))
