@@ -60,4 +60,12 @@ string = " ".join(letters)
 print(string)
 
 
+#list comprehension
 list_even=[]
+list_comp = [ 2**x for x in range(10)]
+for i in list_comp:
+    if i%2==0:
+        list_even.append(i)
+
+print(list_even)
+print(list_comp)

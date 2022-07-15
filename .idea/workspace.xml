@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20e2cac3-490d-4812-82dc-ad21f6987fb8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/demo_list4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common_probs.py" beforeDir="false" afterPath="$PROJECT_DIR$/common_probs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_list4.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo_list4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo_loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one_liners.py" beforeDir="false" afterPath="$PROJECT_DIR$/one_liners.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +39,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.demo_list4">
+  <component name="RunManager" selected="Python.demo_set">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
       <module name="py_thing" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,27 +103,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo_loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py_thing" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo_loops.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="demo_loops_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_thing" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="one_liners" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="demo_set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_thing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,7 +136,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/one_liners.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo_set.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_thing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,19 +168,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.demo_list4" />
+      <item itemvalue="Python.demo_set" />
+      <item itemvalue="Python.exercise" />
       <item itemvalue="Python.common_probs" />
+      <item itemvalue="Python.demo_list4" />
       <item itemvalue="Python.demo_loops_2" />
-      <item itemvalue="Python.demo_loops" />
-      <item itemvalue="Python.one_liners" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demo_set" />
+        <item itemvalue="Python.exercise" />
         <item itemvalue="Python.demo_list4" />
         <item itemvalue="Python.common_probs" />
         <item itemvalue="Python.demo_loops_2" />
-        <item itemvalue="Python.demo_loops" />
-        <item itemvalue="Python.one_liners" />
       </list>
     </recent_temporary>
   </component>
