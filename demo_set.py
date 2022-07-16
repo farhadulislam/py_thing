@@ -5,7 +5,7 @@ set_from_list = set(list)
 set_from_tuple = set(tuple)
 
 a = {1, 2, 3, 5, 7, 8, 9, 0}
-b = {0, 2, 3, 4, 7,8}
+b = {0, 2, 3, 4, 7, 8}
 
 
 print(type(a))

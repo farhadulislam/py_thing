@@ -23,3 +23,15 @@ def divide(x, y):
 
 
 divide(3, 0)
+######### FIBONACCI ################
+def fibbonacci_of (n):
+    if n in {0,1}:
+        return n
+    else:
+        return fibbonacci_of(n-1) + fibbonacci_of(n-2)
+
+number = 10
+print(f"Fibbonacci using recursion {number} is {fibbonacci_of(number)}")
+
+fibbo = [fibbonacci_of(n) for n in range(11)]
+print(fibbo)
