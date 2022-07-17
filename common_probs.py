@@ -35,3 +35,6 @@ print(f"Fibbonacci using recursion {number} is {fibbonacci_of(number)}")
 
 fibbo = [fibbonacci_of(n) for n in range(11)]
 print(fibbo)
+
+for _ in range(4):
+    print(f"Fibbonacci using recursion {_} is {fibbonacci_of(_)}")
