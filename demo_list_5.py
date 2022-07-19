@@ -1,3 +1,11 @@
+#Comprehensive
+
+list1 = list()
+print(list1)
+list2 = []
+print(list2)
+
+
 nums = [23, 45, 67, 89, 91, 33, 33, 0, 1, 55, 67, 89, 91]
 print(nums)
 nums.sort()
