@@ -4,6 +4,7 @@
 #a[:]           # a copy of the whole array
 
 vegs = ['Onions', 'Garlic', 'Tomatoes', 'Cabbage', 'Cauliflower', 'Aubergine', 'Raddish', 'Beans']
+#last two items reveresed.
 
 years = [1990, 1998, 1989, 1995, 2010, 2011, 2015, 2016, 2022, 1952, 1971]
 
@@ -28,6 +29,3 @@ print(vegs[:-3:-1])
 #Everything except two reversed.
 print(vegs[-3::-1])
 
-#Sorting
-
-print(years.sort())
