@@ -56,8 +56,6 @@ letters.remove('k')
 print(letters)
 del letters[0:3]
 print(letters)
-
-
 print(letters.index('e'))
 
 

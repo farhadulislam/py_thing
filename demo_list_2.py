@@ -100,6 +100,9 @@ list_with_duplicates = [0, 1, 2, 5, 6, 7, 6, 7, 9, 6]
 list_without_duplicates = [i for i in list_with_duplicates if i !=6 ]
 print(list_without_duplicates)
 
+list_without_duplicates_2 = list(set(list_with_duplicates))
+print(f"List without duplicates using set() : {list_without_duplicates_2}")
+
 #Alternative
 while 5 in list_with_duplicates:
     list_with_duplicates.remove(5)
