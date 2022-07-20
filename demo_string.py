@@ -1,6 +1,5 @@
 
 sentence = "This is a sentence"
-
 print('This is \'nt a joke')
 
 title = "This IS A Title"
