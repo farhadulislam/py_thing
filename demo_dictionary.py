@@ -39,3 +39,10 @@ dict3 = {
 print('Priting dict2')
 print(str(type(dict3))+ str(len(dict3)))
 pprint.pprint(dict3)
+
+d1 = {"name": "Raisul", "age": "33"}
+d2 = {"name": "Raisul", "age": "33", "profession": "researcher"}
+
+merged_dict = {**d1, **d2}
+print(merged_dict)
+

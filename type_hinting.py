@@ -1,4 +1,6 @@
 # compatible only with py version 3.6 and above
+import sys
+
 
 def isElligible(platform: str, age: int) -> bool:
     if platform == "facebook" and age > 13:
@@ -13,3 +15,4 @@ def isElligible2(platform: str, age: int) -> bool:
 
 print(isElligible("facebook", 18))
 print(isElligible2("twitter", 20))
+
