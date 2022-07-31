@@ -22,10 +22,13 @@ day, year, is_nested_tuple = n_tuple
 
 nums_squared = [x**2 for x in range(10)]
 print(nums_squared)
+
 binary = [2**x for x in range(10) if x > 0]
 print(binary)
 
 #
 sum(range(5))
-list(range(0, 10, 2))
+#list(range(0, 10, 2))
 
+zeroes = [[0 for _ in range (3)] for _ in range(5)]
+print(zeroes)

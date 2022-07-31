@@ -1,3 +1,5 @@
+import itertools
+
 list0 = ['one', 'two', 'three', 'four', 'five']
 list1 = [1, 2, 3, 4, 5, 50, 60, 70]
 list2 = ['orange', 'mango', 'jackfruit', 'watermelon', 'grapes']
@@ -13,3 +15,38 @@ miskat_set = set(mishkat_tuple)
 
 print(f"Mishkat's tuple : {mishkat_tuple}")
 print(f"Mishkat's set : {miskat_set}")
+
+names = ["Bahar", "Raisul", "Sabuj"]
+ages = [31, 34, 40]
+eye_colours = ["Green", "Black", "Blue"]
+
+n_a_e = list(zip(names, ages, eye_colours))
+print(n_a_e)
+
+for name, age in zip(names, ages):
+    if age < 35:
+        print(name)
+
+sum = itertools.accumulate(list1)
+print(list(sum))
+
+#Sorting list elements
+
+numbers = [[4,5],[0,2],[9,-3],[2,8]]
+numbers.sort()
+print(numbers)
+numbers.sort(reverse=True)
+print(numbers)
+numbers.sort(key=lambda x: x[0] + x[1])
+print("Sort by sum of elements", numbers)
+
+list_from_sums = [i[0] + i[1] for i in numbers]
+print(list_from_sums)
+
+#Form a list of two lists - first containing 1st element of each list item,
+#and second containing 2nd element of each list items
+unpack_numbers = [[i[0] for i in numbers], [i[1] for i in numbers]]
+print(unpack_numbers)
+unpack_numbers[0].sort()
+unpack_numbers[1].sort()
+print(unpack_numbers)
