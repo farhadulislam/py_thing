@@ -3,6 +3,7 @@ import itertools
 list0 = ['one', 'two', 'three', 'four', 'five']
 list1 = [1, 2, 3, 4, 5, 50, 60, 70]
 list2 = ['orange', 'mango', 'jackfruit', 'watermelon', 'grapes']
+list4 = [2, "Hathazari", 3, "Panchlaish", 4, "Rangunia", 5, "Raozan"]
 
 list_all = list(zip(list0, list1, list2))
 print(list_all)
@@ -38,7 +39,10 @@ print(numbers)
 numbers.sort(reverse=True)
 print(numbers)
 numbers.sort(key=lambda x: x[0] + x[1])
-print("Sort by sum of elements", numbers)
+print("Sort by sum of elements\n", numbers)
+numbers_2 = [[4,5],[2,],[3,4,5,6], [0,2],[9,-3],[2,8], [100,200,2,3,5,6,7]]
+numbers_2.sort(key=lambda x: len(x))
+print("Sort by number of elements or length\n", numbers_2)
 
 list_from_sums = [i[0] + i[1] for i in numbers]
 print(list_from_sums)
@@ -50,3 +54,9 @@ print(unpack_numbers)
 unpack_numbers[0].sort()
 unpack_numbers[1].sort()
 print(unpack_numbers)
+
+print(list4)
+
+
+
+

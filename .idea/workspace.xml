@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20e2cac3-490d-4812-82dc-ad21f6987fb8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/demo_tuple_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/args_kwargs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingBat/list_2/sum_13.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo_list_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo_list_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/one_liners.py" beforeDir="false" afterPath="$PROJECT_DIR$/one_liners.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tips.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
       <recent name="C:\Farhad\Nemo\LEARNING\LAB\REPO\py_thing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.demo_list_6">
+  <component name="RunManager" selected="Python.args_kwargs">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
       <module name="py_thing" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo_dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="args_kwargs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_thing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +80,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo_dictionary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/args_kwargs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo_tuple_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="demo_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_thing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +122,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo_tuple_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo_tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,19 +175,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.args_kwargs" />
+      <item itemvalue="Python.demo_tuple" />
       <item itemvalue="Python.demo_list_6" />
-      <item itemvalue="Python.demo_tuple_2" />
       <item itemvalue="Python.one_liners" />
-      <item itemvalue="Python.demo_dictionary" />
       <item itemvalue="Python.tips" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.args_kwargs" />
+        <item itemvalue="Python.demo_tuple" />
+        <item itemvalue="Python.tips" />
         <item itemvalue="Python.demo_list_6" />
         <item itemvalue="Python.one_liners" />
-        <item itemvalue="Python.demo_tuple_2" />
-        <item itemvalue="Python.demo_dictionary" />
-        <item itemvalue="Python.tips" />
       </list>
     </recent_temporary>
   </component>
