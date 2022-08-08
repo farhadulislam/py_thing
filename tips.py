@@ -47,3 +47,7 @@ print(squared)
 list_of_strings = ["Hello,", "welcome", "to", "Chittagong"]
 concat_strings = " ".join(list_of_strings)
 print(concat_strings)
+
+YEAR = 2022
+print('Year is {}'.format(YEAR))
+

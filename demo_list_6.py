@@ -1,4 +1,5 @@
 import itertools
+import typing
 
 list0 = ['one', 'two', 'three', 'four', 'five']
 list1 = [1, 2, 3, 4, 5, 50, 60, 70]
@@ -56,6 +57,12 @@ unpack_numbers[1].sort()
 print(unpack_numbers)
 
 print(list4)
+
+numbers_only_list : int = [23, 34, 46, 67]
+
+numbers_only_list.append('Apple')
+print(numbers_only_list)
+
 
 
 

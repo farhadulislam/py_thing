@@ -28,6 +28,7 @@ for item in ['a', 'b', 'c', 'A', 'B', 'C', '1', '2', '3']:
     list_ascii.append(ord(item))
 print(list_ascii)
 
+
 list_chars = []
 for item in list_ascii:
     list_chars.append(chr(item))
@@ -54,3 +55,4 @@ print(java[-1])
 print('madam'[::-1]=='madam') # check if it is palindrome
 hundred_nums = list(range(1,101))
 print(list(filter(lambda x: x%2==0 and x < 30, hundred_nums)))
+
