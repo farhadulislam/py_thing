@@ -43,11 +43,47 @@ print(print_msg)
 i = 2
 squared = f"{i} square of {i} is {i*i}"
 print(squared)
+YEAR = 2022
+print('Year is {}'.format(YEAR))
 
 list_of_strings = ["Hello,", "welcome", "to", "Chittagong"]
 concat_strings = " ".join(list_of_strings)
 print(concat_strings)
 
-YEAR = 2022
-print('Year is {}'.format(YEAR))
+#jMahbub
+def demo_mult_input():
+    x, y, z = input("Enter a number: ").split()
+    print(x)
+    print(y)
+    print(z)
+
+
+views, likes, comment = 1000, 300, 100
+
+conditions =[
+    views>500,
+    likes>200,
+    comment>50
+]
+
+if all(conditions):
+    print("Cool video")
+if any(conditions):
+    print('just OK')
+
+## Find most common item from a list
+
+numbers = [0,1,1,1,2,3,4,22,2,2,22,3,1,5,6,7,8,9,100]
+most_common_number = max(set(numbers), key=numbers.count)
+print(most_common_number)
+
+name = 'madame'
+isPalindrome = name.find(name[::-1])==0
+isPalindrome_elegantSol = name == name[::-1]# this is better and more readable
+print(isPalindrome)
+print(isPalindrome_elegantSol)
+
+# any number modulus 2 would be either 0 or 1.
+# Here, 1 equates to true which means number entered is odd
+print("odd" if int(input("Enter a number "))%2 else print("even"))
 

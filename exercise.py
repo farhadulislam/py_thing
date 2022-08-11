@@ -19,3 +19,5 @@ def prob_sol_52():
         print("\t")
         if i%5==0:
             print("\n")
+
+

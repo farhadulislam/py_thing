@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20e2cac3-490d-4812-82dc-ad21f6987fb8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/codingBat/Algo/twos_num_sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo_string_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo_string_02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one_liners.py" beforeDir="false" afterPath="$PROJECT_DIR$/one_liners.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tips.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
       <recent name="C:\Farhad\Nemo\LEARNING\LAB\REPO\py_thing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.twos_num_sum">
+  <component name="RunManager" selected="Python.tips">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
       <module name="py_thing" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,11 +183,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tips" />
+        <item itemvalue="Python.exercise" />
         <item itemvalue="Python.twos_num_sum" />
         <item itemvalue="Python.demo_string_02" />
-        <item itemvalue="Python.exercise" />
         <item itemvalue="Python.demo_list_6" />
-        <item itemvalue="Python.tips" />
       </list>
     </recent_temporary>
   </component>

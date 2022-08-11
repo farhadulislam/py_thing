@@ -32,3 +32,4 @@ print(sentence[-2])
 list_words = [i for i in sentence.split() if i != ' ']
 print(list_words)
 print(len(list_words))
+
