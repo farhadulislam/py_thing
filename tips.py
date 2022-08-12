@@ -87,3 +87,4 @@ print(isPalindrome_elegantSol)
 # Here, 1 equates to true which means number entered is odd
 print("odd" if int(input("Enter a number "))%2 else print("even"))
 
+
