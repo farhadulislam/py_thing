@@ -1,4 +1,4 @@
-import random
+import demo_random
 
 list_of_fruits = ['apple', 'banana', 'carrot', 'orange']
 
