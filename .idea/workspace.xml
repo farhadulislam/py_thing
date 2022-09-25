@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20e2cac3-490d-4812-82dc-ad21f6987fb8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/GUI_STUFF/demo_gui_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI_STUFF/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_string_03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_copy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test_copy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_STUFF/demo_gui_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI_STUFF/demo_gui_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_random.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo_random.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +31,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "last_opened_file_path": "C:/Farhad/Nemo/LEARNING/LAB/REPO/py_thing/GUI_STUFF",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;last_opened_file_path&quot;: &quot;C:/Farhad/Nemo/LEARNING/LAB/REPO/py_thing/GUI_STUFF&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Farhad\Nemo\LEARNING\LAB\REPO\py_thing\GUI_STUFF" />
@@ -47,7 +46,7 @@
       <recent name="C:\Farhad\Nemo\LEARNING\LAB\REPO\py_thing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.demo_gui_01">
+  <component name="RunManager" selected="Python.demo_string_03">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
       <module name="py_thing" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo_random" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="demo_string_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_thing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,7 +143,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Farhad\Nemo\LEARNING\LAB\REPO\py_thing\demo_random.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo_string_03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,19 +197,19 @@
     <list>
       <item itemvalue="Python.demo_random (1)" />
       <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.demo_string_03" />
       <item itemvalue="Python.demo_gui_01" />
       <item itemvalue="Python.demo_list_6" />
-      <item itemvalue="Python.demo_random" />
       <item itemvalue="Python.os_file_dir" />
       <item itemvalue="Python.try_exception_finally" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demo_string_03" />
         <item itemvalue="Python.demo_gui_01" />
         <item itemvalue="Python.os_file_dir" />
         <item itemvalue="Python.try_exception_finally" />
         <item itemvalue="Python.demo_list_6" />
-        <item itemvalue="Python.demo_random" />
       </list>
     </recent_temporary>
   </component>
