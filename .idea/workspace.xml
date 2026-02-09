@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="20e2cac3-490d-4812-82dc-ad21f6987fb8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/demo_string_03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/py_thing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/py_thing.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI_STUFF/demo_gui_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI_STUFF/demo_gui_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_random.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo_random.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_calendar.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo_calendar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_list_2025_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo_list_2025_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_readWrite_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo_readWrite_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python.refresher.2026/basics/lesson01.py" beforeDir="false" afterPath="$PROJECT_DIR$/python.refresher.2026/basics/lesson01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python.refresher.2026/basics/lesson2_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/python.refresher.2026/basics/lesson02_string.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +40,15 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;last_opened_file_path&quot;: &quot;C:/Farhad/Nemo/LEARNING/LAB/REPO/py_thing/GUI_STUFF&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Farhad/Nemo/LEARNING/LAB/REPO/py_thing&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Farhad\Nemo\LEARNING\LAB\REPO\py_thing\READ_FILES" />
       <recent name="C:\Farhad\Nemo\LEARNING\LAB\REPO\py_thing\GUI_STUFF" />
       <recent name="C:\Farhad\Nemo\LEARNING\LAB\REPO\py_thing\projects" />
     </key>
@@ -46,7 +56,7 @@
       <recent name="C:\Farhad\Nemo\LEARNING\LAB\REPO\py_thing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.demo_string_03">
+  <component name="RunManager" selected="Python.demo_gui_01">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
       <module name="py_thing" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,32 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI_STUFF" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python.project.gui" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI_STUFF/demo_gui_01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="demo_list_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py_thing" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo_list_6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python.project.gui/demo_gui_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo_string_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_thing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +132,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo_string_03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="os_file_dir" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_thing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python.refresher.2026/basics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/os_file_dir.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python.refresher.2026/basics/lesson01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="try_exception_finally" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson02_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_thing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,11 +170,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python.refresher.2026/basics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try_exception_finally.py" />
+      <option name="SCRIPT_NAME" value="C:\Farhad\Nemo\LEARNING\LAB\REPO\py_thing\python.refresher.2026\basics\lesson02_string.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson03_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_thing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python.refresher.2026/basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python.refresher.2026/basics/lesson03_string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,21 +205,21 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.demo_random (1)" />
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.demo_string_03" />
+      <item itemvalue="Python.demo_random (1)" />
       <item itemvalue="Python.demo_gui_01" />
-      <item itemvalue="Python.demo_list_6" />
-      <item itemvalue="Python.os_file_dir" />
-      <item itemvalue="Python.try_exception_finally" />
+      <item itemvalue="Python.lesson02_string" />
+      <item itemvalue="Python.exercise" />
+      <item itemvalue="Python.lesson01" />
+      <item itemvalue="Python.lesson03_string" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.demo_string_03" />
         <item itemvalue="Python.demo_gui_01" />
-        <item itemvalue="Python.os_file_dir" />
-        <item itemvalue="Python.try_exception_finally" />
-        <item itemvalue="Python.demo_list_6" />
+        <item itemvalue="Python.lesson01" />
+        <item itemvalue="Python.lesson03_string" />
+        <item itemvalue="Python.lesson02_string" />
+        <item itemvalue="Python.exercise" />
       </list>
     </recent_temporary>
   </component>
